@@ -1,9 +1,6 @@
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
-cat > README.md << 'EOF'
-# CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
-
-![Last Commit](https://img.shields.io/github/last-commit/your-real-username/cse103-lab-LAB3)
+![Last Commit](https://img.shields.io/github/last-commit/aashikatiwari7/cse103-lab-LAB3)
 ![Language](https://img.shields.io/badge/language-Python-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
@@ -36,7 +33,7 @@ cse103-lab-LAB3/
 ## How to Run
 
 ```bash
-git clone https://github.com/your-real-username/cse103-lab-LAB3.git
+git clone https://github.com/aashikatiwari7/cse103-lab-LAB3.git
 cd cse103-lab-LAB3
 python3 main.py
 ```

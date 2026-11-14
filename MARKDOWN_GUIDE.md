@@ -1,11 +1,5 @@
 # Markdown Syntax Guide
 
-This file is a quick reference for core Markdown 
-cd ~/cse103_lab/LAB3/my_first_repo
-pwd
-cat > MARKDOWN_GUIDE.md << 'EOF'
-# Markdown Syntax Guide
-
 This file is a quick reference for core Markdown syntax.
 
 # Heading 1 (largest)
